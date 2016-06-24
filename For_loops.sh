@@ -32,7 +32,7 @@ done
 # This will run the command 'cat' on file1 and file2
 for Variable in file1 file2
 do
-    cat "$Variable"
+    echo "$Variable"
 done
 
 # ..or the output from a command

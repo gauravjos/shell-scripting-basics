@@ -1,0 +1,2 @@
+ls: cannot access fileX.txt: No such file or directory
+file.txt
