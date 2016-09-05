@@ -11,6 +11,7 @@ Agenda
 9.1 While Loops
 9.2 Until Loops
 9.3 For loops
-10. Functions
+10 I/O Redirection
+11. Functions
 
 
