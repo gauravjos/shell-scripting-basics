@@ -1,0 +1,35 @@
+#What is Shell?
+The shell is a program that takes your commands from the keyboard and gives them to the operating system to execute.
+This is a commandline Interface (CLI)
+On most Linux systems a shell is  a program called bash (which stands for Bourne Again SHell, an enhanced version of the original Bourne shell program, sh, written by Steve Bourne) . 
+There are several additional shell programs available on a typical Linux system which include: ksh, tcsh and zsh.
+
+
+
+#What is shell script?
+#Shell script is series of commands with a control flow written in text file designed to be run by Linux Shell Interpreter.
+
+
+To Run Shell Script you need to give it execute permission.
+
+#to allow only the owner to run the script.
+chmod 700 helloworld.sh
+
+#to allow to execute by everyone
+chmod 755 helloworld.sh
+
+#or
+
+chmod +x helloworld.sh
+
+#Run script
+
+./helloworld.sh
+
+#or absolute path
+
+/home/user/helloworld.sh
+
+#or without execution permissions
+
+bash /home/user/helloworld.sh
