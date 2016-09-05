@@ -1,3 +1,4 @@
+Agenda
 1. What Is Shell? & What is Shell script?
 2. How to run script
 3. Hello World example
