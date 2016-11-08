@@ -1,17 +1,16 @@
 Agenda
 1. What Is Shell? & What is Shell script?
-2. How to run script
-3. Hello World example
+2. Hello World example
+3. How to run/execute script
 4. Variables
 5. Quotes
 6. Arithmetics
 7. Cmdline Arguments.
-8.1 Conditionals: IF Else Statements
-8.2 Case Statements
-9.1 While Loops
-9.2 Until Loops
-9.3 For loops
-10 I/O Redirection
-11. Functions
-
-
+8. Arrays
+9.1 Conditionals: IF Else Statements
+9.2 Conditionals: Case Statements
+10.1 Loops: While Loop
+10.2 Loops: Until Loops
+10.3 Loops: For loops
+11 I/O Redirections
+12. Functions
