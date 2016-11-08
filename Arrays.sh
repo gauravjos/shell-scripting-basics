@@ -1,8 +1,8 @@
 #!/bin/bash
 
-Array=(10 20 30 40 50);
+Array=( 10 20 30 40 50 )
 
-for value in ${Array[@]};
+for value in ${Array[@]}
  do 
  	echo $value;
  done
