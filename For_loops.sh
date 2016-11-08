@@ -27,14 +27,6 @@ for (( i=1; i <= 5; i++ ))
 do
  echo "Number $i"
 done
-
-# They can also be used to act on files..
-# This will run the command 'cat' on file1 and file2
-for Variable in file1 file2
-do
-    echo "$Variable"
-done
-
 # ..or the output from a command
 # This will cat the output from ls.
 n=0
