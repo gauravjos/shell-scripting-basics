@@ -36,7 +36,7 @@ echo $Var
 
 echo "Multiplication 5 and 3"
 
-Var=`expr 5 * 3`
+Var=`expr 5 \* 3`
 
 echo $Var;
 

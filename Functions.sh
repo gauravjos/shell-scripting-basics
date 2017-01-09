@@ -9,7 +9,7 @@
 # functionName(){
 # 	#statements
 # }
-
+. Functutil.sh
 args(){
 	echo Total args to function $#
 }
@@ -44,3 +44,7 @@ factorial()
 
 fact=$(factorial 5)
 echo "factorial is $fact"
+
+. Functutil.sh
+#printable 5 
+#printable 5 20
